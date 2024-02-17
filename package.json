@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-tutorial",
+  "version": "1.0.0",
+  "description": "video call tutorial",
+  "main": "App.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.4"
+  }
+}

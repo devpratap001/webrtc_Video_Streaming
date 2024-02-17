@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.root {
+    height: 100vh;
+    position: relative;
+}
+.incoming, .outgoing {
+    width:400px ;
+    height: 250px;
+}
